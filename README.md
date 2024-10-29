@@ -1,7 +1,3 @@
-Here’s a simple GitHub README for your Vim configuration:
-
----
-
 # Vim Configuration
 
 This is a basic Vim configuration file designed for editing standard files efficiently. It comes with essential settings and plugins to enhance your editing experience. 
