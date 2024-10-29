@@ -16,10 +16,14 @@ This is a basic Vim configuration file designed for editing standard files effic
    ```bash
    git clone https://github.com/codiwithsarthak/vim-config.git ~/.vim
    ```
-2. ```bash
+
+2. **Cd into the repo**:
+   ```bash
    cd vim-config
    ```
-3. ```bash
+
+3. **Moving the files and folders** 
+   ```bash
    mv plugged ~/.vim
    mv autoload ~/.vim
    mv .vimrc ~
