@@ -16,10 +16,18 @@ This is a basic Vim configuration file designed for editing standard files effic
    ```bash
    git clone https://github.com/codiwithsarthak/vim-config.git ~/.vim
    ```
+2. ```bash
+   cd vim-config
+   ```
+3. ```bash
+   mv plugged ~/.vim
+   mv autoload ~/.vim
+   mv .vimrc ~
+   ```
 
-2. **Install [Vim-Plug](https://github.com/junegunn/vim-plug)** if you haven’t already.
+4. **Install [Vim-Plug](https://github.com/junegunn/vim-plug)** if you haven’t already.
 
-3. **Open Vim and install the plugins**:
+5. **Open Vim and install the plugins**:
    ```vim
    :PlugInstall
    ```
