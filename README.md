@@ -16,7 +16,7 @@ This is a basic Vim configuration file designed for editing standard files effic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/codiwithsarthak/vim-config.git ~/.vim
+   git clone https://github.com/codiwithsarthak/vim-config.git
    ```
 
 2. **Cd into the repo**:
